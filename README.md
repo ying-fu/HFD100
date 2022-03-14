@@ -14,7 +14,7 @@
 
 The data format used for the experiment is .mat，the division ratio of training dataset and test dataset is 3:2.
 The number of channels for hyperspectral image is 31.
-The size of HFD100 dataset is about 55 Gb, the download link is https://pan.baidu.com/s/1XKGafuIbFpI3V77LSeFbOA  and the code is "epou".
+The size of HFD100 dataset is about 55 Gb, the download link is https://pan.baidu.com/s/1XKGafuIbFpI3V77LSeFbOA and the code is "epou".
 
 
 
